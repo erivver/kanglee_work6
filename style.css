@@ -1,0 +1,26 @@
+.box-1 {
+    width: 200px;
+    height: 200px;
+    background-color: red
+}
+.butotn-1{
+    width: 128px;
+    height: 48px;
+    background-color: yellowgreen
+    broder-radius: 8px
+    margin: 12px
+    padding: 18px
+    text-align: center;
+}
+
+image-sizing {
+    width: 400px;
+}
+
+
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
